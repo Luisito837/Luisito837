@@ -2,7 +2,7 @@
 
 Estoy estudiando Ingenieria Sistemas en la universidad Santiago Mariño, me gusta el desarrollo de juegos.
 
-- 💬 Hablame de voleibol, Memes, lo que sea que te interese bro.
+- 💬 Hablame de voleibol vale o lo que sea que te interese bro.
 
 Soy bueno manejando muchas areas como el Sound Desing, Diseño Grafico, Programacion, Modelado 3D y Edicion de Videos.
 
