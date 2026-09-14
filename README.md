@@ -24,7 +24,7 @@ Soy bueno manejando muchas areas como el Sound Desing, Diseño Grafico, Programa
 
 
 ### Mi compañero confiable (no)!
-[Victor Barrios]([https://tu-enlace.com](https://github.com/VictorBarriosMB))
+[Victor Barrios](https://github.com/VictorBarriosMB)
     
     
 **Dame una :star: pues porfa y un :heart:. esa vaina a mi me ayuda bastante.**
