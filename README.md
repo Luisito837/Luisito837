@@ -10,6 +10,9 @@ Soy bueno manejando muchas areas como el Sound Desing, Diseño Grafico, Programa
 
 <p align="center">
 	<img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40" />
+	<a href="https://skillicons.dev">
+    	<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  	</a>
 	<img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="40" />
 	<img title="Scala" alt="Scala" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" width="40" height="40" />
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
