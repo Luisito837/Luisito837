@@ -18,7 +18,7 @@ Soy bueno manejando muchas areas como el Sound Desing, Diseño Grafico, Programa
 
 <p align="center">
 	<a href="https://skillicons.dev">
-    	<img src="https://skillicons.dev/icons?i=dart,flutter,java,js,py,blender,godot," />
+    	<img src="https://skillicons.dev/icons?i=dart,flutter,java,js,py,godot,unreal,unity" />
   	</a>
 </p>
 
